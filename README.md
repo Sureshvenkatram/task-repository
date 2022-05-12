@@ -1,1 +1,1 @@
-# qa-repository
+#master-repository
